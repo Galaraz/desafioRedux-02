@@ -1,4 +1,4 @@
-# desafioRedux-02
+# DesafioRedux-02
 1) Organize o codigo em diferentes arquivos com type module
 2) Crie 2 reducers, token e user
 ## Açoes: ##
